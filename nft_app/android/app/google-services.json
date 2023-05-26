@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67352335222",
+    "project_id": "nftapp-e4093",
+    "storage_bucket": "nftapp-e4093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67352335222:android:2d5f86f8c2bb4211106057",
+        "android_client_info": {
+          "package_name": "com.example.nft_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67352335222-cilqvqrga8bj02r4llivqpmgr0v79qio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Ib0WXVBOplrVAvJ8bmv6oH8tx60EVm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67352335222-cilqvqrga8bj02r4llivqpmgr0v79qio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
